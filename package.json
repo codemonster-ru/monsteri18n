@@ -1,12 +1,12 @@
 {
-    "name": "@codemonster-ru/vue-i18n",
+    "name": "@codemonster-ru/monsteri18n",
     "version": "0.1.0",
     "description": "Open source internationalization plugin for Vue.js.",
     "license": "MIT",
     "author": "Kirill Kolesnikov",
     "repository": {
         "type": "git",
-        "url": "https://github.com/codemonster-ru/vue-i18n.git"
+        "url": "https://github.com/codemonster-ru/monsteri18n.git"
     },
     "keywords": [],
     "main": "./dist/index.ts.umd.js",
@@ -42,8 +42,8 @@
         "eslint-plugin-prettier": "^5.1.3",
         "prettier": "^3.3.2",
         "typescript": "^5.5.3",
-        "vite": "^5.3.3",
-        "vite-plugin-dts": "^3.9.1",
+        "vite": "^6.0.11",
+        "vite-plugin-dts": "^4.5.0",
         "vue-tsc": "^2.0.21"
     }
 }
