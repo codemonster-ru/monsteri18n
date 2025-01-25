@@ -1,4 +1,4 @@
-# @codemonster-ru/vue-i18n
+# MonsterI18n
 
 Open source internationalization plugin for Vue.js.
 
